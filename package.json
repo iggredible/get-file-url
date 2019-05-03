@@ -11,5 +11,8 @@
   "license": "mit",
   "devDependencies": {
     "jest": "24.7.1"
+  },
+ "engines": {
+  "node": ">=10.0.0"
   }
 }
