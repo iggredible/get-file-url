@@ -13,4 +13,4 @@ getFileUrl('/some/path/to/image.jpg'); // file:///Users/path/to/image/get-file-u
 Currently it does not support windows OS.
 
 # License
-MIT © Igor Irianto
+[MIT](https://github.com/iggredible/get-file-url/blob/master/LICENSE)
